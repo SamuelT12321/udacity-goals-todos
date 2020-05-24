@@ -1,6 +1,7 @@
 ## udacity-goals-todos (React)
 
-This app is migrate from from my git repo -->StateTreeExample the single page `HTML` react app to full react app using the proper structure   
+This app is migrate from from my git repo -->StateTreeExample the single page `HTML` react app to full react app using the proper structure  "Rails-style" organization
+
 
 ### `Getting it up and running.`
 
